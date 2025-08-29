@@ -1,0 +1,15 @@
+meta {
+  name: se van a consultar todos los carros
+  type: http
+  seq: 2
+}
+
+get {
+  url: https://localhost:3010/cars
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+}
