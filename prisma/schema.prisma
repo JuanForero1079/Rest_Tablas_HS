@@ -38,3 +38,8 @@ model usuarios{
   nombre String
 
 }
+
+model paneles{
+  id Int @id @default(autoincrement())
+  nombre_producto String
+}

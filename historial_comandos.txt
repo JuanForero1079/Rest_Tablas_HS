@@ -1,0 +1,223 @@
+    1  git status
+    2  cd de
+    3  cd Desktop/
+    4  ls
+    5  git clone https://github.com/alej0j0/citas_2826502.git
+    6  cd citas_2826502/
+    7  git switch 4_vistas
+    8  code .
+    9  cd
+   10  [200~git config --global user.email gozalezb08@gmail.com
+   11  git config --global user.email gozalezb08@gmail.com
+   12  git config --global user.email
+   13  cd Downloads
+   14  cd D:
+   15  cd limpia
+   16  git init
+   17  git add .
+   18  git commit -m "limpieza de datos"
+   19  git remote add origin https://github.com/GonzalezYT/limpieza-de-datos.git
+   20  git push -u origin main
+   21  git push
+   22  git push -u origin master
+   23  git remote add origin https://github.com/GonzalezYT/limpieza-de-datos.git
+   24  git push
+   25  npm --version
+   26  enable
+   27            <h2>Coffee</h2>
+   28            <article class="item">
+   29            </article>
+   30            <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+   31  ls
+   32  ls-l
+   33  ls -l
+   34  pwd
+   35  mkdir PRUEBA
+   36  ls
+   37  cd PREUBA
+   38  touch file
+   39  ls
+   40  ls -l
+   41  ls - lh
+   42  mkdir -p TEST1/TEST2
+   43  ls
+   44  clear
+   45  mkdir PREUBA
+   46  ls
+   47  echo ""<h1> MI PRIMER SCRIPT</> >> PRUEBA/TEST1/TEST2/index.html
+   48  [200~$ echo "<h1> MI PRIMER SCRIPT<h1/>" >> PRUEBA/TEST1/TEST2/index.html
+   49  tyugughhhkllhjhhñh{
+   50  lhhuhh uhuh
+   51  uhhhjhohohoohollj}+
+   52  jjjjjjlñ
+   53  code .
+   54  choco install node js
+   55  node --version
+   56  git status
+   57  git branch
+   58  git branch develop
+   59  git checkout develop
+   60  git checkout -b develop
+   61  git commit -m "se crea el proyecto formularios con linters y acceso a azure"
+   62  git config --global user.email miguel.guzuru06@gmail.com
+   63  git config --global user.name miguel06g
+   64  git remote add origin https://github.com/miguel06g/FORMULARIO-LINTERS.git
+   65  git remote add origin https://github.com/miguel06g/FORMULARIO-LINTERS.git
+   66  git push -u origin develop
+   67  git branch -M main
+   68  git status
+   69  git add src/index.html
+   70  git add src/assets/styles.css
+   71  git commit -m "se agregan solo el index y el css en la rama main"
+   72  git push -u origin main
+   73  [200~rm -rf .git
+   74  rm -rf .git
+   75  git status
+   76  git init
+   77  git status
+   78  git add src/index.html
+   79  git add src/assets/styles.css
+   80  git commit -m "se agrega formulario con linters y conexion a azure"
+   81  git config --global user.email miguel.guzuru06@gmail.com
+   82  git config --global user.name miguel06g
+   83  git branch -M main
+   84  git remote add origin https://github.com/miguel06g/FORMULARIO-LINTERS.git
+   85  git push -u origin main
+   86  git checkout -b develop
+   87  git status
+   88  git add .
+   89  git commit -m "se suben todos los archivos desde la rama develop"
+   90  git push -u origin develop
+   91  git status
+   92  git add .
+   93  git commit -m "se agregan comentarios al css"
+   94  git push -u origin develop
+   95  git push -u origin develop
+   96  git status
+   97  git add .
+   98  git commit -m "actualizacion de azure"
+   99  git push -u origin main
+  100  cd FORM-LINTERS
+  101  cd desktop
+  102  git clone https://github.com/miguel06g/FORM-LINTERS.git~
+  103  git clone https://github.com/miguel06g/FORM-LINTERS.git
+  104  code .
+  105  cd FORM-LINTERS
+  106  CODE .
+  107  npm --version
+  108  node --version
+  109  npm i -g @nestjs/cli
+  110  nest --version
+  111  pwd
+  112  nest new cardealer_3147252
+  113  ls
+  114  cd cardealer_3147252
+  115  npm run start
+  116  npm run start
+  117  code .
+  118  npm uninstall prettier
+  119  npm uninstall eslint-config-prettier
+  120  npm uninstall eslint-plugin-prettier
+  121  npm run start:dev
+  122  npm run start:dev
+  123  nest --help
+  124  git clone https://github.com/tiquesebastian/inmo_gestion.git
+  125  cd inmo_gestion
+  126  code .
+  127  [200~node -v
+  128  cls
+  129  clear
+  130  node -v
+  131  npm -v
+  132  clear
+  133  git --version
+  134  clear
+  135  [200~npx create-react-app inmobiliaria-frontend
+  136  npx create-react-app inmobiliaria-frontend
+  137  cd inmobiliaria-frontend
+  138  npm start
+  139  ls
+  140  cd ..
+  141  ls
+  142  cd aprendiz
+  143  ls
+  144  cd inmogestion
+  145  cd inmo_gestion
+  146  cd ..
+  147  inmobiliaria-frontend
+  148  cd inmobiliaria-frontend
+  149  npx create-react-app inmobiliaria
+  150  ls
+  151  cd inmobiliaria
+  152  cd desktop
+  153  cd inmo_gestion
+  154  npx create-react-app inmobiliaria-frontend
+  155  ls
+  156  ls
+  157  npm start
+  158  npm --version
+  159  LS
+  160  cd my-firts-react-proyect
+  161  code .
+  162  cd ..
+  163  cd inmo_gestion
+  164  code .
+  165  cd ..
+  166  [200~npm create vite@latest nombre_proyecto -- --template react
+  167  npm create vite@latest nombre_proyecto -- --template react
+  168  cd nombre_proyecto
+  169  npm install
+  170  npm i -D tailwindcss @tailwindcss/postcss @tailwindcss/cli
+  171  code .
+  172  npm create vite@latest todo-list-app-react -- --template react
+  173  npm install
+  174  cd todo-list-app-react
+  175  npm install
+  176  code .
+  177  cd todo-list-app-react
+  178  code .
+  179  cd backend
+  180  python -m venv venv
+  181  source venv/Scripts/activate
+  182  pip install -r requirements
+  183  pip install -r requirements.txt
+  184  pip install sqlalchemy
+  185  alembic init --template pyproject alembic
+  186  alembic revision --autogenerate -m "mensaje"
+  187  alembic revision --autogenerate -m "mensaje"
+  188  alembic upgrade head
+  189  uvicorn app.main:app --reload
+  190  alembic revision --autogenerate -m "mensaje"
+  191  alembic revision --autogenerate -m "mensaje"
+  192  alembic revision --autogenerate -m "mensaje"
+  193  alembic revision --autogenerate -m "mensaje"
+  194  alembic revision --autogenerate -m "mensaje"
+  195  alembic revision --autogenerate -m "mensaje"
+  196  alembic revision --autogenerate -m "mensaje"
+  197  alembic revision --autogenerate -m "mensaje"
+  198  alembic revision --autogenerate -m "mensaje"
+  199  alembic revision --autogenerate -m "mensaje"
+  200  alembic revision --autogenerate -m "mensaje"
+  201  alembic upgrade head
+  202  uvicorn app.main:app --reload
+  203  alembic revision --autogenerate -m "mensaje"
+  204  alembic revision --autogenerate -m "mensaje"
+  205  alembic upgrade head
+  206  uvicorn app.main:app --reload
+  207  alembic revision --autogenerate -m "mensaje"
+  208  alembic revision --autogenerate -m "mensaje"
+  209  alembic revision --autogenerate -m "mensaje"
+  210  alembic upgrade head
+  211  uvicorn app.main:app --reload
+  212  npm run star:dev
+  213* 
+  214  npm i
+  215  npm run start:dev
+  216  npx prisma generate
+  217  npm run start:dev
+  218  npx prisma migrate
+  219  npx prisma generate
+  220* 
+  221  history
+  222  npm run start:dev
+  223  history > historial_comandos.txt

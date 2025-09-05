@@ -1,3 +1,5 @@
+//import { PanelesService } from './paneles.service';
+import { panele } from './entities/panele.entity';
 import { Injectable } from '@nestjs/common';
 import { CreatePaneleDto } from './dto/create-panele.dto';
 import { UpdatePaneleDto } from './dto/update-panele.dto';
@@ -14,7 +16,7 @@ export class PanelesService {
     ){}
 
   findAll() {
-    return this.servicio.paneles.findMany()
+    return this.servicio.panele.findMany()
   }
 
   findOne(id: number) {
